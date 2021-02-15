@@ -1,3 +1,4 @@
+
 export const data = [
   {
     title: "Musica",
@@ -5,19 +6,20 @@ export const data = [
       "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
     details: [
       {
-        title: "Definition",
+        title: "Definição",
         points: [
           "",
-          "",
-          "UX research and analysis",
+          <audio src="http://cld3097web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" controls>
+   
+</audio>
+         
         ],
       },
       {
-        title: "Definition0",
+        title: "Explicação",
         points: [
-          "",
-          "",
-          "UX research and analysis",
+          "texto texto texto texto"
+          
         ],
       },
     ],
@@ -28,19 +30,18 @@ export const data = [
       "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
     details: [
       {
-        title: "Definition1",
+        title: "Definição1",
         points: [
-          "",
-          "",
-          "UX research and analysis",
+          "isso é uma imagem",
+          <img src="https://www.suplementostore.com.br/Eshop.Admin/imagens/uf67e4kw8y/Produtos/teste_.png"></img>
         ],
       },
       {
-        title: "Definition2",
+        title: "Explicação",
         points: [
-          "",
-          "",
-          "UX research and analysis",
+          "texto texto texto texto"
+          
+         
         ],
       },
     ],
@@ -51,19 +52,18 @@ export const data = [
       "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
     details: [
       {
-        title: "Definition",
+        title: "Definição",
         points: [
           "",
-          "User flow creation",
-          "UX research and analysis",
+          <video src="https://www.w3schools.com/html/mov_bbb.mp4" controls>
+          </video>
         ],
       },
       {
-        title: "Definition",
+        title: "Explicação",
         points: [
-          "",
-          "User flow creation",
-          "UX research and analysis",
+          "texto texto texto texto",
+          
         ],
       },
     ],
@@ -74,18 +74,16 @@ export const data = [
       "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
     details: [
       {
-        title: "Definition",
+        title: "Definição",
         points: [
-          "",
-          "User flow creation",
-          "UX research and analysis",
+          <audio src="http://cld3097web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" controls>
+          </audio>
         ],
       },
       {
-        title: "Definition",
+        title: "Explicação",
         points: [
-          "",
-          "User flow creation",
+          "texto texto texto texto",
           "",
         ],
       },
