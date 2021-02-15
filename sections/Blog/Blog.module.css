@@ -1,0 +1,28 @@
+.container {
+  margin-top: 350px;
+  padding-bottom: 300px;
+  padding-top: 200px;
+  background: var(--white);
+  position: relative;
+}
+
+.title {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.postContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  gap: 60px;
+  justify-content: center;
+}

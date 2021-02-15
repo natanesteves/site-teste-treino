@@ -1,26 +1,26 @@
 {
-  "name": "site-teste-treino",
+  "name": "blog-starter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    
-    "dev": "next dev"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/natanesteves/site-teste-treino.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/natanesteves/site-teste-treino/issues"
-  },
-  "homepage": "https://github.com/natanesteves/site-teste-treino#readme",
   "dependencies": {
-    "next": "^10.0.5",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
-  }
+    "@popmotion/popcorn": "^0.4.4",
+    "classnames": "2.2.6",
+    "date-fns": "2.10.0",
+    "framer-motion": "^2.9.4",
+    "gray-matter": "4.0.2",
+    "next": "latest",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "remark": "11.0.2",
+    "remark-html": "10.0.0"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.4.0"
+  },
+  "license": "MIT"
 }

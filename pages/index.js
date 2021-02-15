@@ -1,8 +1,38 @@
-function Home (){
-    return <div>
-        <h1>hello word</h1>
-        <h1>só pra testar o git</h1>
-    </div>
+import Container from "../components/container";
+import Intro from "../components/intro";
+import { getAllPosts } from "../lib/api";
+import Head from "next/head";
+import { Layout } from "../components";
+import { Hero, CallToAction, Blog, Services, HowWeWork } from "../sections";
+
+export default function Index({ allPosts }) {
+  return (
+    <>
+      <Layout>
+        <Head>
+          <title>Site Daniel Musico</title>
+        </Head>
+        <Hero />
+        <HowWeWork />
+        <Services />
+        
+        <CallToAction />
+      </Layout>
+    </>
+  );
 }
 
-export default Home
+export async function getStaticProps() {
+  const allPosts = getAllPosts([
+    "title",
+    "date",
+    "slug",
+    "author",
+    "coverImage",
+    "excerpt",
+  ]);
+
+  return {
+    props: { allPosts },
+  };
+}
