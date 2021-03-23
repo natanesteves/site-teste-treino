@@ -2,9 +2,9 @@
   --p: var(--h3);
   --hColor: var(--white);
   --textColor: var(--white);
-    background-image: url("/public/images/herobg.png");
+  background: var(--blue);
   position: relative;
-
+  
   background-size: cover;
   display: flex;
   justify-content: center;
