@@ -2,6 +2,7 @@
   --p: var(--h3);
   --hColor: var(--white);
   --textColor: var(--white);
+    background-image: url("/public/images/herobg.png");
   position: relative;
 
   background-size: cover;
