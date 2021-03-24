@@ -86,8 +86,8 @@ export default function Services() {
       <div className={styles.title}>
         <h1>Meus trabalhos</h1>
         <p>
-        Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso 
-            Texto falso Texto falso Texto falsoTexto falso  
+        Text Text Text Text Text Text Text 
+            Text Text Text  
         </p>
       </div>
       <div className={styles.buttonGroup}>

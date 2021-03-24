@@ -1,9 +1,9 @@
 
 export const data = [
   {
-    title: "Musica",
+    title: "Music",
     summary:
-      "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
+      "Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text",
     details: [
       {
         title: "Definição",
@@ -18,7 +18,7 @@ export const data = [
       {
         title: "Explicação",
         points: [
-          "texto texto texto texto"
+          "Text Text Text Text"
           
         ],
       },
@@ -27,7 +27,7 @@ export const data = [
   {
     title: "Jingle",
     summary:
-      "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
+      "Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text",
     details: [
       {
         title: "Definição1",
@@ -39,7 +39,7 @@ export const data = [
       {
         title: "Explicação",
         points: [
-          "texto texto texto texto"
+          "Text Text Text Text"
           
          
         ],
@@ -49,7 +49,7 @@ export const data = [
   {
     title: "Show",
     summary:
-      "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
+      "Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text",
     details: [
       {
         title: "Definição",
@@ -62,7 +62,7 @@ export const data = [
       {
         title: "Explicação",
         points: [
-          "texto texto texto texto",
+          "Text Text Text Text",
           
         ],
       },
@@ -71,7 +71,7 @@ export const data = [
   {
     title: "Trilha Sonora",
     summary:
-      "texto texto texto texto texto texto texto texto texto texto texto texto texto textotexto textotexto textotexto textotexto textotexto textotexto texto texto texto texto texto",
+      "Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text",
     details: [
       {
         title: "Definição",
@@ -83,7 +83,7 @@ export const data = [
       {
         title: "Explicação",
         points: [
-          "texto texto texto texto",
+          "Text Text Text Text",
           "",
         ],
       },

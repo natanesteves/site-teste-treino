@@ -5,7 +5,7 @@ export default function HowWeWork() {
   return (
     <section className={styles.container}>
       <div className={styles.title}>
-        <h3>Minhas Areas de atuação</h3>
+        <h3>More text</h3>
         <p>
          
         </p>
@@ -21,8 +21,8 @@ export default function HowWeWork() {
           />
           <h4>Musica</h4>
           <div className={styles.card}>
-            Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso 
-            Texto falso Texto falso Texto falsoTexto falso
+            text text text text text text text 
+            text text text
           </div>
         </div>
         <div className={styles.cardContainer}>
@@ -35,8 +35,8 @@ export default function HowWeWork() {
           />
           <h4>Jingle</h4>
           <div className={styles.card}>
-          Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso 
-            Texto falso Texto falso Texto falsoTexto falso
+          text text text text text text text 
+            text text text
           </div>
         </div>
         <div className={styles.cardContainer}>
@@ -49,8 +49,8 @@ export default function HowWeWork() {
           />
           <h4>Shows</h4>
           <div className={styles.card}>
-          Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso 
-            Texto falso Texto falso Texto falsoTexto falso
+          text text text text text text text 
+            text text text
           </div>
         </div>
         <div className={styles.cardContainer}>
@@ -63,8 +63,8 @@ export default function HowWeWork() {
           />
           <h4>Trilha Sonora</h4>
           <div className={styles.card}>
-          Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso Texto falso 
-            Texto falso Texto falso Texto falsoTexto falso
+          text text text text text text text 
+            text text text
           </div>
         </div>
       </div>

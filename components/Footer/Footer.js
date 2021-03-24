@@ -12,18 +12,18 @@ export default function Footer() {
         </div>
         <div className={styles.grid}>
           <div>
-            <h5>Sobre nós</h5>
-            <p>Fazendo um som de <br/> qualidade para os ouvintes .</p>
+            <h5>about Us</h5>
+            <p>Text Text Text <br/> Text Text Text .</p>
           </div>
           <div>
-            <h5>Contato</h5>
+            <h5>Contact</h5>
             <ul>
               <li>hello@fake.ie</li>
               <li>+55 14370914</li>
             </ul>
           </div>
           <address>
-            <h5>Endereço</h5>
+            <h5>address</h5>
             <ul>
               <li>8-9 Marino Mart</li>
               <li>Fairview</li>
@@ -32,9 +32,10 @@ export default function Footer() {
             </ul>
           </address>
           <div>
-            <h5>Outros Links</h5>
+            <h5>Other Links</h5>
             <ul>
-              <li>Politica de privacidade</li>
+              <li>
+Privacy Policy</li>
             </ul>
           </div>
         </div>

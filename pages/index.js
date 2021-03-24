@@ -10,7 +10,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Site Daniel Musico</title>
+          <title>your langing page</title>
         </Head>
         <Hero />
         <HowWeWork />
