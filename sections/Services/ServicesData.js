@@ -6,7 +6,7 @@ export const data = [
       "Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text",
     details: [
       {
-        title: "Definição",
+        title: "Title",
         points: [
           "",
           <audio src="http://cld3097web.audiovideoweb.com/va90web25003/companions/Foundations%20of%20Rock/13.01.mp3" controls>
@@ -16,7 +16,7 @@ export const data = [
         ],
       },
       {
-        title: "Explicação",
+        title: "Title",
         points: [
           "Text Text Text Text"
           
@@ -37,7 +37,7 @@ export const data = [
         ],
       },
       {
-        title: "Explicação",
+        title: "Title",
         points: [
           "Text Text Text Text"
           
@@ -60,7 +60,7 @@ export const data = [
         ],
       },
       {
-        title: "Explicação",
+        title: "Title",
         points: [
           "Text Text Text Text",
           
@@ -81,7 +81,7 @@ export const data = [
         ],
       },
       {
-        title: "Explicação",
+        title: "Title",
         points: [
           "Text Text Text Text",
           "",
