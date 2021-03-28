@@ -61,7 +61,7 @@ export default function HowWeWork() {
             height={158}
             width={181}
           />
-          <h4>soundtrack</h4>
+          <h4>Soundtrack</h4>
           <div className={styles.card}>
           text text text text text text text 
             text text text
