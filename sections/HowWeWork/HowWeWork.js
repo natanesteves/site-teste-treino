@@ -19,7 +19,7 @@ export default function HowWeWork() {
             height={158}
             width={181}
           />
-          <h4>Musica</h4>
+          <h4>Music</h4>
           <div className={styles.card}>
             text text text text text text text 
             text text text
@@ -61,7 +61,7 @@ export default function HowWeWork() {
             height={158}
             width={181}
           />
-          <h4>Trilha Sonora</h4>
+          <h4>soundtrack</h4>
           <div className={styles.card}>
           text text text text text text text 
             text text text

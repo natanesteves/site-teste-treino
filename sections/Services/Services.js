@@ -84,7 +84,7 @@ export default function Services() {
     <section className={styles.container}>
       <Waves flip />
       <div className={styles.title}>
-        <h1>Meus trabalhos</h1>
+        <h1>My Work</h1>
         <p>
         Text Text Text Text Text Text Text 
             Text Text Text  
